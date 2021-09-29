@@ -35,6 +35,7 @@ public class Welcome extends AppCompatActivity
         logout = (Button) findViewById(R.id.logout);
         displyloc = (Button) findViewById(R.id.disloc);
 
+
         logout.setOnClickListener(new View.OnClickListener() {
             @SuppressLint("WrongViewCast")
             @Override

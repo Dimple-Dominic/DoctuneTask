@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     TextInputLayout emailError, passError;
     DatabaseHelper databaseHelper;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
